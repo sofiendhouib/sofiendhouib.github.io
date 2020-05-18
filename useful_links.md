@@ -1,7 +1,7 @@
 # Datasets
 ## Text classification
 * [Amazon reviews](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/): as used for the first time in Blitzer's [2007 paper](https://www.cs.jhu.edu/~mdredze/publications/sentiment_acl07.pdf)
-* [Amazon reviews idf-tf](http://researchers.lille.inria.fr/pgermain/data/amazon_tfidf_svmlight.tgz): Amazon reviews after preprocessing done in Chen's [2011 paper](http://papers.nips.cc/paper/4433-co-training-for-domain-adaptation.pdf), reducing dimensionality and applying idf-tf re-weighting.
+* [Amazon reviews idf-tf](https://github.com/GRAAL-Research/domain_adaptation_of_linear_classifiers): Amazon reviews after preprocessing done in Chen's [2011 paper](http://papers.nips.cc/paper/4433-co-training-for-domain-adaptation.pdf), reducing dimensionality and applying idf-tf re-weighting. The link is at the end of the README file.
 ## Digit classification
 * [MNIST](http://yann.lecun.com/exdb/mnist/)
 * USPS: [link1](https://web.stanford.edu/~hastie/StatLearnSparsity_files/DATA/zipcode.html), [link2](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps)
