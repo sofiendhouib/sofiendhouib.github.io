@@ -7,7 +7,7 @@ A 3rd year PhD student at [CREATIS](https://www.creatis.insa-lyon.fr/site7/en) l
 ](https://hal.archives-ouvertes.fr/hal-02343988)
 ## International conferences
 * [Revisiting (\epsilon, \gamma, \tau)-similarity learning for domain adaptation](https://papers.nips.cc/paper/7969-revisiting-epsilon-gamma-tau-similarity-learning-for-domain-adaptation), NeurIPS 2018
-### To appear soon
+### To be published
 * Margin-aware Adversarial Domain Adaptation with Optimal Transport: To appear at the Thirty-seventh International Conference on Machine Learning, ICML 2020
 * A Swiss Army Knife for Minimax Optimal Transport: To appear at the Thirty-seventh International Conference on Machine Learning, ICML 2020
 
