@@ -3,9 +3,8 @@ I am a final year PhD student at [CREATIS](https://www.creatis.insa-lyon.fr/site
 # List of publications
 
 ## National conferences
-* [Analyse théorique de l’apprentissage avec des fonctions de similarités pour l’adaptation de domaine](https://hal.archives-ouvertes.fr/hal-02063285)
-* [On learning a large margin classifier for domain adaptation based on similarity functions
-](https://hal.archives-ouvertes.fr/hal-02343988)
+* [Analyse théorique de l’apprentissage avec des fonctions de similarités pour l’adaptation de domaine](https://hal.archives-ouvertes.fr/hal-02063285), CAp 2018
+* [On learning a large margin classifier for domain adaptation based on similarity functions](https://hal.archives-ouvertes.fr/hal-02343988), CAp 2019
 
 ## International conferences
 * [Revisiting (\epsilon, \gamma, \tau)-similarity learning for domain adaptation](https://papers.nips.cc/paper/7969-revisiting-epsilon-gamma-tau-similarity-learning-for-domain-adaptation), NeurIPS 2018
