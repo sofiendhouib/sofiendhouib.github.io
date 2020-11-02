@@ -5,9 +5,9 @@
 
 title: "Sofien Dhouib's personal webpage"
 author:
-  name: Sofien Dhouib
+  name: "Sofien Dhouib"
   email: "sofiane.lastname@gmail.com"
-description: A third year PhD student
+description: "A third year PhD student"
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
