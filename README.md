@@ -1,4 +1,4 @@
-I am a final year PhD student at [CREATIS](https://www.creatis.insa-lyon.fr/site7/en) under the supervision of [Carole Lartizien](https://www.creatis.insa-lyon.fr/~lartizien/) and [Ievgen Redko](https://ievred.github.io/). My work is about domain adaptation from the viewpoints of similarity functions, large margin classification and optimal transport.
+I am a final year PhD student at [CREATIS](https://www.creatis.insa-lyon.fr/site7/en) under the supervision of [Carole Lartizien](https://www.creatis.insa-lyon.fr/~lartizien/) and [Ievgen Redko](https://ievred.github.io/). My work is about domain adaptation from the viewpoints of similarity functions, large margin classification and optimal transport. I am reachable at "sofiane.myLastName@gmail.com".
 
 # List of publications
 
