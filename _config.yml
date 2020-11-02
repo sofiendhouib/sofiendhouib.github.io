@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
 title: Sofien Dhouib
 logo: id.jpg
 description: "sofiane.lastname@gmail.com"
