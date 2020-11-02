@@ -1,5 +1,5 @@
 #theme: jekyll-theme-minimal
-remote_theme: "mmistakes/minimal-mistakes"
-title: "Sofien Dhouib"
+remote_theme: mmistakes/minimal-mistakes
+title: Sofien Dhouib
 logo: id.jpg
-description: "sofiane.lastname@gmail.com"
+description: sofiane.lastname@gmail.com
