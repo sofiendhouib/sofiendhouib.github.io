@@ -1,5 +1,5 @@
 main:
   - title: "Main"
-    url: /posts/
+    url: README.md
   - title: "CV"
     url: /categories/
