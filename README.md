@@ -8,8 +8,8 @@ I am a final year PhD student at [CREATIS](https://www.creatis.insa-lyon.fr/site
 
 ## International conferences
 * [Revisiting (\epsilon, \gamma, \tau)-similarity learning for domain adaptation](https://papers.nips.cc/paper/7969-revisiting-epsilon-gamma-tau-similarity-learning-for-domain-adaptation), NeurIPS 2018
-* [Margin-aware Adversarial Domain Adaptation with Optimal Transport](https://proceedings.icml.cc/paper/2020/hash/1102a326d5f7c9e04fc3c89d0ede88c9), ICML 2020
-* [A Swiss Army Knife for Minimax Optimal Transport](https://proceedings.icml.cc/paper/2020/hash/1343777b8ead1cef5a79b78a1a48d805), ICML 2020
+* [Margin-aware Adversarial Domain Adaptation with Optimal Transport](http://proceedings.mlr.press/v119/dhouib20b.html), ICML 2020
+* [A Swiss Army Knife for Minimax Optimal Transport](http://proceedings.mlr.press/v119/dhouib20a.html), ICML 2020
 
 
 # Some useful links:
