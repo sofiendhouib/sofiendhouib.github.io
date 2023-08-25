@@ -11,7 +11,7 @@ I am reachable at **sofiane.myLastName[At]inf.uni-tuebingen.com**.
 * [Hypothesis Transfer in Bandits by Weighted Models](https://link.springer.com/chapter/10.1007/978-3-031-26412-2_18), ECML PKDD 2022 (2nd author).
   
 # Preprints
-* [Connecting sufficient conditions for domain adaptation: source-guided uncertainty, relaxed divergences and discrepancy localization](https://arxiv.org/abs/2203.05076)
+* [Connecting sufficient conditions for domain adaptation: source-guided uncertainty, relaxed divergences and discrepancy localization](https://arxiv.org/abs/2203.05076), arXiv preprint, 2022.
 
 # Reviewing:
 * ICML 2021
