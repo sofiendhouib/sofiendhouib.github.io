@@ -36,7 +36,7 @@
 * [Papers with code](https://paperswithcode.com/)
 * [ResearchCode](https://researchcode.com/)
 
-# Miscelaneous
+# Miscellaneous
 * [Awesome transfer learning](https://github.com/artix41/awesome-transfer-learning) repository: with **DA datasets** 
 * [Distill](https://distill.pub/): interactive ML articles
 * A github repository for [transfer learning](https://github.com/jindongwang/transferlearning)
