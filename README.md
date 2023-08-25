@@ -2,7 +2,7 @@ I am a postdoctoral reasearcher and a member of the [Decision Making team](https
 
 I am reachable at **sofiane.myLastName[At]inf.uni-tuebingen.com**.
 
-# List of publications
+# Publications
 
 ## National conferences
 * [Analyse théorique de l’apprentissage avec des fonctions de similarités pour l’adaptation de domaine](https://hal.archives-ouvertes.fr/hal-02063285), CAp 2018
@@ -12,6 +12,10 @@ I am reachable at **sofiane.myLastName[At]inf.uni-tuebingen.com**.
 * [Revisiting (\epsilon, \gamma, \tau)-similarity learning for domain adaptation](https://papers.nips.cc/paper/7969-revisiting-epsilon-gamma-tau-similarity-learning-for-domain-adaptation), NeurIPS 2018
 * [Margin-aware Adversarial Domain Adaptation with Optimal Transport](http://proceedings.mlr.press/v119/dhouib20b.html), ICML 2020
 * [A Swiss Army Knife for Minimax Optimal Transport](http://proceedings.mlr.press/v119/dhouib20a.html), ICML 2020
+* [Hypothesis Transfer in Bandits by Weighted Models](https://link.springer.com/chapter/10.1007/978-3-031-26412-2_18) (2nd author)
+  
+# Preprints
+* [Connecting sufficient conditions for domain adaptation: source-guided uncertainty, relaxed divergences and discrepancy localization](https://arxiv.org/abs/2203.05076)
 
 # Reviewing:
 * ICML 2021
