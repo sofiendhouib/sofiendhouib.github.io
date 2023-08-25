@@ -18,6 +18,6 @@ I am reachable at **sofiane.myLastName[At]inf.uni-tuebingen.com**.
 * Neurips 2021: Outstanding Reviewer Award (Top 8% of reviewers).
 * ICLR 2022
 * Neurips 2023
-* 
+
 # Some useful links:
 A [list of links](useful_links.md) that I found useful during my PhD years: tools, GitHub repositories, dataset download links etc...
