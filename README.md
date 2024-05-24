@@ -1,6 +1,6 @@
-I am a postdoctoral reasearcher and a member of the [Decision Making team](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/decision-making/) of the Computer Science Department, at the [University of Tübingen](https://uni-tuebingen.de/en/university/). Before that, I was a PhD at the [CREATIS laboratory](https://www.creatis.insa-lyon.fr/site7/en) under the supervision of [Carole Lartizien](https://www.creatis.insa-lyon.fr/~lartizien/) and [Ievgen Redko](https://ievred.github.io/). 
+I was a postdoctoral reasearcher and a member of the [Decision Making team](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/decision-making/) of the Computer Science Department, at the [University of Tübingen](https://uni-tuebingen.de/en/university/) from Mai 1, 2021 to April 30, 2024. Before that, I was a PhD at the [CREATIS laboratory](https://www.creatis.insa-lyon.fr/site7/en) under the supervision of [Carole Lartizien](https://www.creatis.insa-lyon.fr/~lartizien/) and [Ievgen Redko](https://ievred.github.io/). 
 
-I am reachable at **sofiane.myLastName[At]uni-tuebingen.com**.
+I am reachable at **sofiane.myLastName[At]gmail.com**.
 
 # Publications
 * [Analyse théorique de l’apprentissage avec des fonctions de similarités pour l’adaptation de domaine](https://hal.archives-ouvertes.fr/hal-02063285), CAp 2018 (France).
@@ -18,6 +18,7 @@ I am reachable at **sofiane.myLastName[At]uni-tuebingen.com**.
 * Neurips 2021: Outstanding Reviewer Award (Top 8% of reviewers).
 * ICLR 2022
 * Neurips 2023
+* TMLR
 
 # Some useful links:
-A [list of links](useful_links.md) that I found useful during my PhD years: tools, GitHub repositories, dataset download links etc...
+A [list of links](useful_links.md) that I found were useful during my PhD years: tools, GitHub repositories, dataset download links etc...
