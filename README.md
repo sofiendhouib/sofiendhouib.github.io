@@ -5,6 +5,8 @@ I am reachable at **sofiane.myLastName[At]gmail.com** (yes, my first name has a 
 # Publications
 * [Meta Learning in Bandits within shared affine Subspaces](https://proceedings.mlr.press/v238/bilaj24a.html), AISTATS 2024 (2nd author)
 * [Hypothesis Transfer in Bandits by Weighted Models](https://link.springer.com/chapter/10.1007/978-3-031-26412-2_18), ECML PKDD 2022 (2nd author)
+* [Connecting sufficient conditions for domain adaptation: source-guided uncertainty, relaxed divergences and discrepancy localization
+](https://arxiv.org/pdf/2203.05076) (arXiv preprint, 2022)
 * [Contributions to unsupervised domain adaptation : Similarity functions, optimal transport and theoretical guarantees](https://theses.hal.science/tel-03199646)
 * [Margin-aware Adversarial Domain Adaptation with Optimal Transport](http://proceedings.mlr.press/v119/dhouib20b.html), ICML 2020
 * [A Swiss Army Knife for Minimax Optimal Transport](http://proceedings.mlr.press/v119/dhouib20a.html), ICML 2020
