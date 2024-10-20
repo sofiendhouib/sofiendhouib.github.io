@@ -1,6 +1,6 @@
 I was a research scientist and a member of the [Decision Making team](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/decision-making/) of the Tuebingen AI center from Mai 1, 2021 to April 30, 2024. Before that, I was a PhD at the [CREATIS laboratory](https://www.creatis.insa-lyon.fr/site7/en) under the supervision of [Carole Lartizien](https://www.creatis.insa-lyon.fr/~lartizien/) and [Ievgen Redko](https://ievred.github.io/). 
 
-I am reachable at **sofiane.myLastName[At]gmail.com** (yes, my first name has a different spelling on my e-mail).
+I am reachable at **sofiane.myLastName[At]gmail.com** (my first name has a different spelling on my e-mail).
 
 # Publications
 * [Meta Learning in Bandits within shared affine Subspaces](https://proceedings.mlr.press/v238/bilaj24a.html), AISTATS 2024 (2nd author)
